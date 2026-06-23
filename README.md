@@ -14,8 +14,6 @@ The dashboard helps understand:
 * Vehicle performance
 * Operational efficiency
 
----
-
 # 🛠️ Tools & Technologies Used
 
 * **Power BI**
@@ -26,7 +24,6 @@ The dashboard helps understand:
 * **Data Cleaning**
 * **Business Analytics**
 
----
 
 # 📂 Project Workflow
 
@@ -38,7 +35,6 @@ The dashboard helps understand:
 6. Dashboard Development
 7. Business Insights Generation
 
----
 
 # 📊 Key Dashboard Features
 
@@ -70,7 +66,6 @@ The dashboard helps understand:
 * Driver Ratings Distribution
 * Customer vs Driver Ratings
 
----
 
 # 📈 KPIs Created
 
@@ -83,8 +78,6 @@ The dashboard helps understand:
 * Average Customer Rating
 * Average Driver Rating
 
----
-
 # 🧠 Business Insights
 
 * Weekend bookings are significantly higher than weekdays.
@@ -93,7 +86,6 @@ The dashboard helps understand:
 * Driver cancellations are mainly due to personal and vehicle-related issues.
 * Higher-rated drivers usually receive better customer ratings.
 
----
 
 # 🗃️ Dataset Information
 
@@ -108,7 +100,6 @@ The dataset contains:
 * Payment Methods
 * Cancellation Reasons
 
----
 
 # 🖥️ Power BI Dashboard
 
@@ -116,7 +107,6 @@ The dataset contains:
 
 <a href="https://github.com/Satyam-Singh-1801/OLA-Booking-Analysis/blob/main/OLA%20Dashboard.pbix">Dashboard</a>
 
----
 
 # 📸 Dashboard Screenshots
 
@@ -140,7 +130,6 @@ The dataset contains:
 
 <a href="https://github.com/Satyam-Singh-1801/OLA-Booking-Analysis/blob/main/Slide%205.png">Slide 5</a>
 
----
 
 # 🧾 SQL Queries Included
 
@@ -152,7 +141,6 @@ The dataset contains:
 * Driver Rating Analysis
 * Payment Method Analysis
 
----
 
 # 📌 Future Improvements
 
